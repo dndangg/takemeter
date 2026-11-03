@@ -1,0 +1,9 @@
+# Your label definitions, one per line, as `label: definition`.
+#
+# Copied from the README so the baseline is judged on exactly the
+# definitions I wrote. baseline.py reads this file.
+
+evidence: makes a point backed by something a stranger could check without trusting the writer, such as a link, a quote, a number, a date, or a command
+opinion: a judgment, prediction, or argument with no checkable support offered, including rhetorical questions
+experience: a first-person account of what the writer did, used, or saw, where the only support is that the writer says so
+question: a genuine request for information, an explanation, or a recommendation that someone could answer
